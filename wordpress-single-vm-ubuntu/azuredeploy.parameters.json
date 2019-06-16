@@ -9,13 +9,13 @@
       "value": "admin"
     },
     "mySqlPassword": {
-      "value": "pHoto4Pe$$"
+      "value": "pw"
     },
     "vmSize": {
       "value": "Standard_D2"
     },
     "adminPasswordOrKey": {
-      "value": "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAtLofE57dbT15ArANiL4H/zdFDxaEVvyPq68LCPXyCaCTEaffRa7xLC6g+XxU/NpePt+3/fJNOGOWE8lUZJwFonzWu+TpndpVhQLTan9meN0Uaceynomq9dpZRJOUQ1OGlbFD2/G2GXHRWkS98pYvspY+WpB6N0haApbwuRMA1eYmdwZx0Hi1ywKnDR1WjikE1x56c7cJdSZ2bPCLGFAgfXPp1FUlomG8tJE05pJ5fJYPJfxonSAeP1rYMK5UyHOHN7McEHZly74J4HLfqiPTxeens2oMGJ61eZGyuQ2BMwVtN9jPOQOs2fXEnwHihrXsZnw7i/EZ9ll3eVEFOEJ+lQ== rsa-key-20190616"
+      "value": "key"
     }
   }
 }
